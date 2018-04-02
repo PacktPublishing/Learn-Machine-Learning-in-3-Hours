@@ -10,13 +10,14 @@ By the end of the course, you will be adept at using the concepts and algorithms
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Review fundamental concepts such as bias and variance 
-<LI>Extract features from categorical variables, text, and images&nbsp; 
-<LI>Predict the values of continuous variables using linear regression and K Nearest Neighbors&nbsp; 
-<LI>Classify documents and images using logistic regression and support vector machines 
-<LI>Create ensembles of estimators using bagging and boosting techniques 
-<LI>Discover hidden structures in data using K-Means clustering 
-<LI>Evaluate the performance of machine learning systems in common tasks </LI></UL></DIV>
+<LI>How Machine Learning algorithms fit data. 
+<LI>Using PCA (Principal Component Analysis) to explore and visualize data easily.&nbsp; 
+<LI>Implementing Unsupervised K-Means clustering.&nbsp; 
+<LI>Leveraging the power of Unsupervised K-Nearest-Neighbor clustering. 
+<LI>Effective implementation of Supervised SVM (Support Vector Machine) fitting 
+<LI>Getting hands-on with Supervised Random Forest Fitting 
+<LI>Implementing Supervised Gradient Boosting for classification
+<LI>Hyperparameter fitting and performance-tuning algorithms.</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
